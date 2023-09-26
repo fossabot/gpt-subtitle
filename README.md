@@ -3,6 +3,7 @@
 English | [简体中文](./README-zh_CN.md)
 
 ![whisper_preview](pictures/whisper_preview.png)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhqwuzhaoyi%2Fgpt-subtitle.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhqwuzhaoyi%2Fgpt-subtitle?ref=badge_shield)
 
 [View Current Development Task](https://hqwuzhaoyi.notion.site/gpt-subtitle-b1eed463063a484f93bdfca91277fc3a?pvs=4) :clipboard:
 
@@ -139,3 +140,7 @@ You can choose the downloaded model by uncommenting before `make`
 The larger the model, the better the translation effect, but the slower it is. It is recommended to use the large model for languages other than English.
 
 Nvidia GPU can accelerate the operation of models, but CUDA needs to be installed. For details, see [whisper](https://github.com/ggerganov/whisper.cpp) project instructions.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fhqwuzhaoyi%2Fgpt-subtitle.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fhqwuzhaoyi%2Fgpt-subtitle?ref=badge_large)
